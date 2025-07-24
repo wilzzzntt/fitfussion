@@ -213,7 +213,8 @@ footer {
     padding: 20px 15px;
   }
   #buscador {
-    max-width: 100%;
+    max-width: 90%;
+    font-size:0.9rem;
   }
 }
 
@@ -226,13 +227,13 @@ footer {
     gap: 8px;
   }
   header h1 {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
   header p {
     font-size: 0.9rem;
   }
   #buscador {
-    max-width: 100%;
+    max-width: 90%;
     font-size: 1rem;
     padding: 10px;
   }
@@ -242,18 +243,18 @@ footer {
   }
   .producto img {
     height: auto;
-    max-height: 300px;
+    max-height: 220px;
   }
   .producto h2 {
     font-size: 1rem;
   }
   .producto p,
   .precio {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
   }
   .btn-whatsapp {
     font-size: 0.85rem;
-    padding: 6px;
+    padding: 7px;
   }
   footer {
     padding: 20px 10px;
